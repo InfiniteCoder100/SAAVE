@@ -9,7 +9,7 @@
 | Name            | Github                                         | Discord         |
 | --------------- | ---------------------------------------------- | --------------- |
 | Kundan Kumar | [@Kundan](https://github.com/InfiniteCoder100)   | codefunky   |
-| Harsh Shende | [@harshshen](https://github.com/Harshshen)   | harsh shende  |
+| Harsh Shende | [@harshshen](https://github.com/Harshshen)   | harshshende  |
 
 
 
